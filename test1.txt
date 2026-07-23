@@ -1,1 +1,3 @@
-Hello
+JavaScriptExecutor is a interface
+Scrolling Functions doesnt have selenium
+For effective purpose
